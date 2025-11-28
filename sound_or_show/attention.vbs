@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak "你做十五道题了吗"
